@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=Wardiusz&color=lightgrey)
 <!--START_SECTION:waka-->
 
 ```txt
