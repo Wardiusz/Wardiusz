@@ -2,7 +2,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java   3 hrs 2 mins    ████████████████████████▓   99.24 %
+SQL    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
