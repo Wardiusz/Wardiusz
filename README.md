@@ -5,7 +5,7 @@
 ```txt
 Total Time: 0 secs
 
-No activity tracked
+Java                   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
 ```
 
 <!--END_SECTION:waka-->
