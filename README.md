@@ -5,7 +5,8 @@
 ```txt
 Total Time: 0 secs
 
-No activity tracked
+Gradle                   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱   83.47 %
+Java                     ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   16.53 %
 ```
 
 <!--END_SECTION:waka-->
