@@ -3,13 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 30 mins
+Total Time: 0 secs
 
-Groovy                         ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   44.52 %
-Java                           ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   42.96 %
-Gradle                         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   08.99 %
-Shell Script                   ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.51 %
-Batch                          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
