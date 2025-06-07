@@ -3,9 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 47 mins
+Total Time: 3 hrs 41 mins
 
-Java                   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
+Java                   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   99.70 %
+XML                    ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.30 %
 ```
 
 <!--END_SECTION:waka-->
