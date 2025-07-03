@@ -3,10 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 mins
+Total Time: 0 secs
 
-Java                   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   98.50 %
-C#                     ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
