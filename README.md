@@ -5,8 +5,7 @@
 ```txt
 Total Time: 0 secs
 
-Java                        ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱   94.97 %
-.env file                   ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
