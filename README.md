@@ -3,11 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 13 mins
+Total Time: 1 hr 41 mins
 
-Jupyter                   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   98.63 %
-Java                      ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.35 %
-Python                    ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.02 %
+Jupyter                   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱   94.21 %
+Java                      ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.79 %
 ```
 
 <!--END_SECTION:waka-->
