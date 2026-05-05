@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Wardiusz)
 
 ## About Me
-I'm Łukasz Wardecki, a Computer Science student @ [PJAIT](https://pja.edu.pl/en/) with specialization in cybersecurity and a Fullstack Developer from Poland with a focus on high-performance backend systems and modern, responsive frontends.
+I'm a Computer Science student @ [PJAIT](https://pja.edu.pl/en/) with specialization in cybersecurity and a Fullstack Developer from Poland with a focus on high-performance backend systems and modern, responsive frontends.
 
 ## Tech Stack
 
