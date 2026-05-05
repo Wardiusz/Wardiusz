@@ -1,13 +1,14 @@
-### Hi there 👋
+[![Header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Wardiusz&reversal=false&section=header&desc=Fullstack%20Developer&fontColor=FFFFFF&descAlignY=65)](https://github.com/wardiusz)
+
 ![](https://komarev.com/ghpvc/?username=Wardiusz)
-<!--START_SECTION:waka-->
 
-```txt
-Total Time: 3 hrs 56 mins
+## About Me
+I'm Łukasz Wardecki, a Computer Science student @ [PJAIT](https://pja.edu.pl/en/) with specialization in cybersecurity and a Fullstack Developer from Poland with a focus on high-performance backend systems and modern, responsive frontends.
 
-Java                                    ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   27.65 %
-TypeScript                              ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.15 %
-SCSS                                    ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   08.46 %
-```
+## Tech Stack
 
-<!--END_SECTION:waka-->
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Backend** | <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,hibernate,mysql,postgres,mongodb,sqlite,&theme=dark" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=angular,tailwind,react,ts,js,qt,html,css&theme=dark" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,idea,clion,rider,pycharm,maven,gradle,docker,kubernetes,postman,figma&theme=dark" /> |
